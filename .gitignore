@@ -1,0 +1,13 @@
+*.zip
+*.exe
+*.txt
+
+saved/**
+downloads/**
+downloads_parrallel/**
+data/**
+tmp/**
+test/**
+
+db/nirsoft-links.db
+db/download_links.json
